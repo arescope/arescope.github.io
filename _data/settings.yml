@@ -1,0 +1,23 @@
+title:  Alberto Resco Pérez
+tagline: Engineer, geek, foodie
+url: 'http://www.albertoresco.com'
+author:
+  name: "Alberto Resco Pérez"
+  twitter:  arescope
+
+menu:
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'About Me', url: 'about.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/arescope'}
+- {icon: 'facebook', link: 'https://www.facebook.com/arescope'}
+- {icon: 'twitter', link: 'https://twitter.com/arescope'}
+- {icon: 'instagram', link: 'https://instagram.com/justageekdad'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/arescope/'}
+- {icon: 'envelope', link: 'mailto:alberto.resco@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+owner:
+  name: "Lagrange"
+  github: 'https://github.com/LeNPaul/Lagrange'

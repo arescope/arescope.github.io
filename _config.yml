@@ -1,0 +1,15 @@
+# Site Settings
+author:
+  name: "Alberto Resco Pérez"
+  twitter:  arescope
+url:                 'http://www.albertoresco.com'
+title:  Alberto Resco Pérez
+description: Engineer, geek, foodie
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate, jekyll-feed]
